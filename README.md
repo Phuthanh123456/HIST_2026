@@ -1,4 +1,4 @@
-# HeritageXR Studio
+# HeritageXR
 
 HeritageXR Studio là web demo bảo tàng tương tác. Người xem có thể khám phá hiện vật 3D, tìm hiểu thông tin và câu chuyện lịch sử, rồi đặt câu hỏi cho chatbot AI.
 
